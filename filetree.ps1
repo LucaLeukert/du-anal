@@ -31,8 +31,8 @@
     Analyzes the folder "C:\MyFolder" and includes file sizes in the output.
 
 .NOTES
-    Author: Your Name
-    Date: YYYY-MM-DD
+    Author: Luca Leukert
+    Date: 26.01.2025
 #>
 
 [CmdletBinding()]
