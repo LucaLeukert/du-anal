@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Disk Usage Analysis Tool
+    Disk Usage Analysis
 
 .DESCRIPTION
     This script calculates and displays the sizes of folders (and optionally files)
